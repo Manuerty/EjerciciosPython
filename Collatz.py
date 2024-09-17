@@ -11,5 +11,4 @@ def collatz(n):
     print(numberList)
 
 n1 = input("introduce un número: ")
-
 collatz(n1)
