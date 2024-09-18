@@ -1,4 +1,3 @@
-
 def collatz(n):
     n = int(n)
     numberList = [n]
